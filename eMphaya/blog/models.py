@@ -1,5 +1,5 @@
 from __future__ import unicode_literals
-
+# Author: Stanley Ramunyisi
 from django.db import models
 from django.utils import timezone
 
